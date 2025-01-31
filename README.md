@@ -18,3 +18,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ms-ping&show_icons=true&locale=en&layout=compact" alt="ms-ping" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ms-ping&" alt="ms-ping" /></p>
+
+### Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
